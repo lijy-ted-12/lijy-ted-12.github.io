@@ -70,6 +70,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Game,
+  Video,
 };
 
 // 链接跳转
